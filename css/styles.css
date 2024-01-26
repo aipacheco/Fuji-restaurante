@@ -11,3 +11,6 @@ body {
 #icon{
     font-size: 1.5em;
 }
+textarea{
+  resize: none !important;
+}
