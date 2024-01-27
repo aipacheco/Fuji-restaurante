@@ -14,16 +14,12 @@ body {
 div{
   border:1px solid red
 }
-a{
-  text-decoration: none;
-  color: white;
-}
 #icon{
     font-size: 1.5em;
 }
 textarea{
   resize: none !important;
 }
-.card{
-  background-color: rgba(250, 235, 215, 0.212);
+.navbar{
+  color: antiquewhite !important;
 }
