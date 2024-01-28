@@ -10,6 +10,7 @@ body {
   );
   height: 100vh;
   width: 100vw;
+
 }
 div{
   border:1px solid red
@@ -19,7 +20,7 @@ a{
   color: white;
 }
 #icon{
-    font-size:1.5em;
+    font-size: 1.5em;
 }
 textarea{
   resize: none !important;
@@ -27,9 +28,7 @@ textarea{
 .card{
   background-color: rgba(250, 235, 215, 0.212);
 }
-.menu{
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: center;
-  align-items: center;
+.container-menu{
+  width: 1800em !important;
+  background-color: blue;
 }

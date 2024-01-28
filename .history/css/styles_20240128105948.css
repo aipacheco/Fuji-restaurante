@@ -19,7 +19,7 @@ a{
   color: white;
 }
 #icon{
-    font-size:1.5em;
+    font-size: 1.5em;
 }
 textarea{
   resize: none !important;
@@ -27,9 +27,4 @@ textarea{
 .card{
   background-color: rgba(250, 235, 215, 0.212);
 }
-.menu{
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: center;
-  align-items: center;
-}
+menu
