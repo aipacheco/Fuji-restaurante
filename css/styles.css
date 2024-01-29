@@ -44,6 +44,10 @@ textarea {
 .card-title{
   font-weight: bold;
 }
+.jumbotron{
+  font-size: 6em;
+  text-shadow: 1px 1px 10px rgba(255,255,255,0.6);
+}
 
 .img-menu {
   max-height: 17em;
