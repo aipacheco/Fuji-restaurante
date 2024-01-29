@@ -14,12 +14,17 @@ body {
 div {
   border: 1px solid red;
 }
-a {
+nav a{
   text-decoration: none;
   color: white;
 }
 #icon {
   font-size: 1.5em;
+}
+.img-restaurante{
+  max-height: 30em;
+  width: auto;
+  object-fit: cover;
 }
 textarea {
   resize: none !important;
@@ -37,22 +42,18 @@ textarea {
   
 }
 .card-title{
-  text-decoration: underline;
   font-weight: bold;
 }
-.menu {
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: center;
-  align-items: center;
-}
+
 .img-menu {
-  height: 16em;
+  max-height: 17em;
+  width: auto;
+  object-fit: cover;
 }
+
 iframe{
   
   height: 20em;
   padding: 0;
   margin: 0;
-  border: 1px solid blue
 }
