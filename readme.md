@@ -1,7 +1,8 @@
 # Project HTML5 + CSS3 + BOOTSTRAP RESPONSIVE DESIGN
 
-### Project for the Full Stack Developer bootcamp at Geekshub.
 The project consists of designing and creating the website of a restaurant to apply the knowledge in HTML5, CSS3 and Bootstrap.
+
+<img src="fuji.png">
 
 It consists of 4 hyperlinked pages, being these:
 
